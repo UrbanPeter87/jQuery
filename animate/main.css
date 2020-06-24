@@ -1,0 +1,24 @@
+div {
+    display: inline-block;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    vertical-align: top;
+  }
+  
+  #wolf {
+    background-color: grey;
+    width: 150px;
+    height: 150px;
+  }
+  
+  #red {
+    background-color: red;
+    width: 75px;
+    height: 75px;
+    position: relative;
+  }
+  
+  button {
+    display: block;
+  }
